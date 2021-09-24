@@ -25,4 +25,3 @@
     npm start
   ```  
 ### Hope this will be helpful for your next project
-#### Thank you for visiting
